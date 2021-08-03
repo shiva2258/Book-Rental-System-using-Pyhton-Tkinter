@@ -1,0 +1,12 @@
+Operating System concepts|Galvin|20|Rs20
+Python essential reference|David Beazley|8|Rs35
+Programming With Python|John Smith|19|Rs30
+Cryptography|Atul Kahate|10|Rs50
+Learning Python|Mark Lutz|75|Rs40
+Meluha|Amish|25|Rs30
+The Secret of Nagas|Amish|30|Rs35
+The Oath of Vayuputras|Amish|28|Rs40
+RAM - Scion of Ikshvaku|Amish|35|Rs25
+SITA - Warrior of Mithila|Amish|30|Rs30
+RAAVAN - Enemy of Aryavarta|Amish|20|Rs35
+Harry Potter|JK Rowling|25|50
