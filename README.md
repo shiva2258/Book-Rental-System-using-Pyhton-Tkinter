@@ -15,13 +15,12 @@ Hardware Requirements:
 •	RAM: minimum 4GB, 8GB recommended
 •	Processor: Intel® CoreTM i5-6500 CPU @ 3.20GHz pr greater
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Functional Requirements:
 •	Whenever an admin adds a item, a new record should be inserted into the file containing the details of the books.
 •	New record should be inserted and the details are entered.
 •	Admin should be able to view the details of the new book record inserted.
 •	In the display, the book details like book name, author name, quantity, price are displayed.
 •	The system must respond to user requests for the operations supported by the system.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 List of Modules:
 1.	Add Books - This module implements adding new book to the rental system
